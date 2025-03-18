@@ -57,7 +57,7 @@ const App = () => {
         <h2 className="empty">😢 Filme não encontrado 😢</h2>
       )}
 
-      <Footer devName={" PikaveePPGxRRB"} devLink={"https://github.com/"} />
+      <Footer devName={" PikaveePPGxRRB"} devLink={"https://github.com/Pikanavee"} />
     </div>
   );
 };
